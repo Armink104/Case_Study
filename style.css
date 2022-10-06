@@ -1,0 +1,113 @@
+body
+{
+    background-image: url("nkjmkl.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+h1
+{
+    font-family: "Pacifico";
+}
+
+.test_image_and_result
+{
+    background-color:darkturquoise;
+    width: 90%;
+    border-radius: 20px; 
+    padding: 10px;
+}
+
+.test_image_and_result2
+{
+    background-color:rgb(255, 33, 137);
+    width: 90%;
+    border-radius: 20px; 
+    padding: 10px;
+}
+
+.test_image_and_result3
+{
+    background-color:darkturquoise;
+    width: 90%;
+    border-radius: 20px; 
+    padding: 10px;
+}
+
+.test_image_and_result4
+{
+    background-color:rgb(255, 33, 137);
+    width: 90%;
+    border-radius: 20px; 
+    padding: 10px;
+}
+
+.test_image_and_result5
+{
+    background-color:darkturquoise;
+    width: 90%;
+    border-radius: 20px; 
+    padding: 10px;
+}
+
+.test_image_and_result6
+{
+    background-color:rgb(226, 152, 255);
+    width: 90%;
+    border-radius: 20px; 
+    padding: 10px;
+}
+
+.test_image_and_result7
+{
+    background-color:rgb(255, 33, 137);
+    width: 90%;
+    border-radius: 20px; 
+    padding: 10px;
+}
+
+.test_image_and_result8
+{
+    background-color:darkturquoise;
+    width: 90%;
+    border-radius: 20px; 
+    padding: 10px;
+}
+
+.test_image_and_result9
+{
+    background-color:rgb(255, 33, 137);
+    width: 90%;
+    border-radius: 20px; 
+    padding: 10px;
+}
+
+.test_image_and_result10
+{
+    background-color:darkturquoise;
+    width: 90%;
+    border-radius: 20px; 
+    padding: 30px;
+}
+
+.hi
+{
+    background-color:rgb(2, 192, 255);
+    width: 50%;
+    border-radius: 20px; 
+    border-color: black;
+    border-style: solid;
+    padding: 30px;
+    display: inline-block;
+}
+
+.copy_right_footer
+{
+  position: fixed; 
+  color: white; 
+  bottom: 0; 
+  width: 100%; 
+  background-color: rgb(224, 131, 255); 
+  line-height: 3; 
+  text-align: center;
+}
